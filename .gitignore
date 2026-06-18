@@ -1,0 +1,7 @@
+node_modules/
+.git/
+.memory/
+AGENTS.md
+*.log
+.DS_Store
+Thumbs.db
