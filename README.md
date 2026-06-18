@@ -15,7 +15,7 @@ El sistema incluye 4 comandos (`/memory load|save|compact|status`) y un skill co
 Clonar dentro de la carpeta de configuración de opencode:
 
 ```powershell
-git clone <URL-DEL-REPO> "$env:USERPROFILE\.config\opencode"
+git clone https://github.com/Design-System-ET/persistent-memory.git "$env:USERPROFILE\.config\opencode"
 ```
 
 Esto copia:
